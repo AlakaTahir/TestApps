@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Test.Model
 {
-    public class DivisionModel
+    public class CalculationModel
     {
         public double NumA { get;set; }
         public double NumB { get;set; }
